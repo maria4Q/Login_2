@@ -1,0 +1,27 @@
+.backgroud-color{
+    max-width: 1366rem;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.vector{
+   margin-top: 20rem;
+   width: 55rem;
+   align-items: flex-start;
+}
+.formulario{
+    margin-right: 20rem;
+    height: auto;
+    width: 50rem;
+    padding: 4rem;
+    background-color: #ffffff;
+    border-radius: 4rem 4rem 0rem 0rem;
+}
+.font{
+    margin-top: 3rem;
+    color: var(--GrisDark);
+    font-size: 3.6rem;
+    font-weight: 600;
+}

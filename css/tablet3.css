@@ -1,0 +1,9 @@
+.backgroud-color{
+    height: 100vh;
+}
+.formulario{
+    background-color: #ffffff;
+    border-radius: 4rem 4rem 4rem 4rem;
+    margin-top: 4rem;
+    padding: 3rem;
+}
